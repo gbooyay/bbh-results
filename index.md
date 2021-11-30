@@ -4,4 +4,6 @@ Final binary black holes: spin vs mass. Links on each data point show all posibi
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~gbooyay/5.embed"></iframe>
 
-[editor](https://github.com/gbooyay/test/edit/gh-pages/index.md)
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~gbooyay/11.embed"></iframe>
+
+[editor](https://github.com/gbooyay/bbh-results/edit/gh-pages/index.md)
